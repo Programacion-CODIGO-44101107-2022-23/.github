@@ -16,6 +16,7 @@ Competencias específicas del módulo de formación básica de la orden CIN/351/
 
 **Objetivo principal: Aprender a programar**
 
-1. El primer paso es la creación de una cuenta en GitHub. [Detalle de pasos de creación de cuenta](creacioncuenta.md)
+1. El primer paso es la creación de una cuenta en GitHub. 
+    - [Detalle de pasos de creación de cuenta](creacioncuenta.md)
 
 2. Después en el aula virtual de la universidad aparece el enlace para la inscripción en el curso
