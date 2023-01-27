@@ -16,5 +16,7 @@ Competencias específicas del módulo de formación básica de la orden CIN/351/
 
 **Objetivo principal: Aprender a programar**
 
-[Dashboard](https://github.com/orgs/Programacion-CODIGO-44101107-2022-23/dashboard)
+El primer paso es la creación de una cuenta en GitHub
+
+[Detalle de pasos de creación de cuenta](creacioncuenta.md)
 
