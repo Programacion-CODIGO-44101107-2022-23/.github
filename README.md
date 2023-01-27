@@ -18,5 +18,7 @@ Competencias específicas del módulo de formación básica de la orden CIN/351/
 
 El primer paso es la creación de una cuenta en GitHub
 
+Después en el aula virtual de la universidad aparece el enlace para la inscripción en el curso
+
 [Detalle de pasos de creación de cuenta](creacioncuenta.md)
 
