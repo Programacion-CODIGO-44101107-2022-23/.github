@@ -16,4 +16,5 @@ Competencias específicas del módulo de formación básica de la orden CIN/351/
 
 **Objetivo principal: Aprender a programar**
 
-![image](https://user-images.githubusercontent.com/37574770/215028005-79c5e3bf-cf0d-4ca0-85ad-0e3f979848e1.png)
+[Dashboard](https://github.com/orgs/Programacion-CODIGO-44101107-2022-23/dashboard)
+
