@@ -2,6 +2,13 @@
 
 # Creación de cuenta en github como estudiante de la UAL
 
+Crear la cuenta de github utilizando el boton **Sign up** en la esquina superior derecha de la página ```www.github.com```. Se debe utilizar la cuenta institucional de la universidad de Almería (@inlumine.ual.es) para el registro de la cuenta, indicando que sois estudiantes de la universidad de Almería para poder ser usuarios habilitados.
+
+IMPORTANTE: Se debe utilizar el correo institucional de la universidad (imaguila@inlumine.ual.es) y como nombre de usuario el identificador en el aula virtual seguido de "-ual" (por ejemplo, ```imaguila-ual```, si este estuviese ocupado, añadir "inlumine", al nombre de usuario (```imaguila-ualinlumine```).
+
+Debemos asegurarnos de marcar las opciones de estudiante para poder acogernos a las licencias gratuitas que ofrece github, sino no prodremos trabajar.
+
+
 ## Entrar en www.github.com e incluir el correo de la ual
  Se debe utilizar el correo institucional de la universidad (imaguila@inlumine.ual.es). Cuidado esa cuenta no debe estar dada de alta previamente
 
