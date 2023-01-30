@@ -1,4 +1,4 @@
-## Mensaje de bienvenida a los alumnos de programación
+## Mensaje de bienvenida a los estudiantes de programación
 
 Estimados estudiantes:
 
