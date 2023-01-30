@@ -23,7 +23,7 @@ El desarrollo de los contenidos y el proceso de adquisición de competencias se 
 
 **Sesiones de Grupo de Trabajo/Trabajo en Equipo Cooperativo**  corresponden a las prácticas de laboratorio y hay 13 sesiones que inicialmente estaban fijadas en 4 horas/sesión (1.5 horas presenciales + 2.5 horas no presenciales) y cuya información esta en un repositorio github que solo estará visible una vez inscrito en la asignatura.
 
-**Trabajo Individual*: se ha organizado en 15 sesiones de duración variable, algunas de ellas divididas en varias sub-sesiones, y corresponden a actividades no presenciales obligatorias de realizar para completar la carga de trabajo del alumno (la dedicación semanal del alumno a cada asignatura es de 8 horas en total, esto es, sumando las actividades presenciales y las no presenciales).
+**Trabajo Individual**: se ha organizado en 15 sesiones de duración variable, algunas de ellas divididas en varias sub-sesiones, y corresponden a actividades no presenciales obligatorias de realizar para completar la carga de trabajo del alumno (la dedicación semanal del alumno a cada asignatura es de 8 horas en total, esto es, sumando las actividades presenciales y las no presenciales).
 
 Los trabajos cooperativos y los trabajos individuales se van a desarrollar sobre repositorios (conjuntos de archivos) de GitHub. Para facilitar el inicio del trabajo es bastante importante que todos los alumnos tengan una cuenta en GitHub lo antes posible y se inscriban en  el grupo de “estudiantes” en la organización de la asignatura. Las instrucciones están en https://programacion-codigo-44101107-2022-23.github.io/.github/
 
