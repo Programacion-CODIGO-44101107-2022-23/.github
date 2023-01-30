@@ -20,3 +20,6 @@ Competencias específicas del módulo de formación básica de la orden CIN/351/
     - [Detalle de pasos de creación de cuenta](creacioncuenta.md)
 
 2. Después en el aula virtual de la universidad aparece el enlace para la inscripción en el curso
+
+
+[nota de bienvenida](bienvenida.md)
