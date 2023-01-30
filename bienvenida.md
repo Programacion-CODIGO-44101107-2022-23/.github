@@ -12,7 +12,7 @@ Guía Docente oficial 22/23: contiene los datos básicos de la asignatura en for
 
 En la carpeta "área de contenido 22/23" es donde se despliegan los distintos apartados a cubrir en la asignatura.
 
-En las **"coordenadas de la asignatura"**, además de los horarios de tutorías el apartado más importante es la Planificación temporal: contiene una tabla con la propuesta de distribución temporal por “semanas docentes”, que se ha establecido en base a posibilidad de clases presenciales. Es importante tener en cuenta que las semanas de Miércoles a Martes.
+En las **"coordenadas de la asignatura"**, además de los horarios de tutorías el apartado más importante es **la Planificación temporal**: contiene una tabla con la propuesta de distribución temporal por “semanas docentes”, que se ha establecido en base a posibilidad de clases presenciales. Es importante tener en cuenta que las semanas de Miércoles a Martes.
 
 El desarrollo de los contenidos y el proceso de adquisición de competencias se articula en base a tres elementos
   - Grupo docente - Lecciones
