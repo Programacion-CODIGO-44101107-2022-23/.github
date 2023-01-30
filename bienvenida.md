@@ -30,6 +30,7 @@ Los trabajos cooperativos y los trabajos individuales se van a desarrollar sobre
 Tras esta inscripción tal como se indica el repositorio "inscripción de estudiantes" se debe crear el repositorio de trabajos individuales usando el enlace publicado en aula virtual.  El de trabajos colaborativos se podrán hacer cuando se asignen los alumnos a un equipo de trabajo  el primer día de clase del grupo docente.
 
 Aunque ya está disponible toda la documentación, es posible que algunos archivos sean revisados y modificados, por lo que siempre es conveniente consultarlos en el instante en que se estén utilizando. Cualquier modificación en los mismos será avisada a través de los anuncios de la plataforma de e-learning lo mismo que cualquier otra incidencia (recuperación de clases, comienzo de las sesiones de Grupo de Trabajo,...).
+
 Esperamos que el programa docente propuesto y que desarrollaremos a lo largo de las 15 semanas del cuatrimestre, de respuesta a todas las necesidades de conocimiento en el ámbito de la programación y la inteligencia computacional. Todo el equipo docente queda a disposición de los estudiantes para ayudarlos en las dificultades que surjan en esta asignatura.
 
 Un saludo,  El equipo docente de programación
