@@ -1,4 +1,4 @@
-# Programación 44101107
+# Programación
 
 En esta asignatura de la Universidad de Almería se desarrollarán los contenidos que facilitarán a los alumnos del primer curso de los grados de Ingenierías esta universidad la adquisición de las competencias en el ámbito de la programación y la inteligencia computacional.
 
