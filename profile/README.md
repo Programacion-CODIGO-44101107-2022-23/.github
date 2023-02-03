@@ -21,3 +21,5 @@ Competencias específicas del módulo de formación básica de la orden CIN/351/
 
 2. Después en el aula virtual de la universidad aparece el enlace para la inscripción en el curso
 
+
+[nota de bienvenida](https://github.com/Programacion-CODIGO-44101107-2022-23/.github/blob/main/bienvenida.md)
