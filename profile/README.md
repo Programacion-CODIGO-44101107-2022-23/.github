@@ -1,5 +1,3 @@
-<!--
-
 # Programación 44101107
 
 En esta asignatura de la Universidad de Almería se desarrollarán los contenidos que facilitarán a los alumnos del primer curso de los grados de Ingenierías esta universidad la adquisición de las competencias en el ámbito de la programación y la inteligencia computacional.
@@ -22,4 +20,4 @@ Competencias específicas del módulo de formación básica de la orden CIN/351/
     - [Detalle de pasos de creación de cuenta](creacioncuenta.md)
 
 2. Después en el aula virtual de la universidad aparece el enlace para la inscripción en el curso
--->
+
